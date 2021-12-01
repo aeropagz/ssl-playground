@@ -1,0 +1,19 @@
+{
+    "CN": "Custom Widgets Intermediate CA",
+    "key": {
+        "algo": "rsa",
+        "size": 2048
+    },
+    "names": [
+        {
+            "C": "GB",
+            "L": "London",
+            "O": "Custom Widgets",
+            "OU": "Custom Widgets Intermediate CA",
+            "ST": "England"
+        }
+    ],
+    "ca": {
+        "expiry": "42720h"
+    }
+}
